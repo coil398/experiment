@@ -32,9 +32,9 @@ for i in range(0,27):
             data = line.split(',')
             for t in time:
                 if float(data[3]) == float(t):
-                    temp.append(math.fabs(float(data[4])))
+                    temp.append(float(data[4]))
 
-    y.append(max(temp)*0.1/2.9)
+    y.append(math.fabs(max(temp)*0.1/2.9))
 
 plt.axvline(x=0,color='black')
 plt.axhline(y=0,color='black')
@@ -43,3 +43,4 @@ plt.xlabel('Voltage[V]')
 plt.ylabel('Electric Field(Where P=0)[V/m]')
 plt.legend()
 plt.show()
+plt.savefig('./VE.png')

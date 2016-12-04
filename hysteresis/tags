@@ -1,0 +1,223 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+data	hys.py	/^        data = line.split(',')$/;"	v
+data	tec.py	/^        data = line.split(',')$/;"	v
+data	TGS30/graph.py	/^        data = line.split(',')$/;"	v
+data	TGS30/hys.py	/^        data = line.split(',')$/;"	v
+data	TGS30/ve.py	/^            data = line.split(',')$/;"	v
+data	TGS40/hys.py	/^        data = line.split(',')$/;"	v
+data	TGS40/ve.py	/^            data = line.split(',')$/;"	v
+data	TGS45/hys.py	/^        data = line.split(',')$/;"	v
+data	TGS45/ve.py	/^            data = line.split(',')$/;"	v
+data	TGS48/hys.py	/^        data = line.split(',')$/;"	v
+data	TGS48/ve.py	/^            data = line.split(',')$/;"	v
+data	TGS52/hys.py	/^        data = line.split(',')$/;"	v
+data	TGS52/ve.py	/^            data = line.split(',')$/;"	v
+data	TGST0/hys.py	/^        data = line.split(',')$/;"	v
+data	TGST0/ve.py	/^            data = line.split(',')$/;"	v
+data	ve.py	/^            data = line.split(',')$/;"	v
+DATAFILE1	hys.py	/^DATAFILE1 = '.\/TEK0000.CSV'$/;"	v
+DATAFILE1	tec.py	/^DATAFILE1 = '.\/TEK0000.CSV'$/;"	v
+DATAFILE1	TGS30/hys.py	/^DATAFILE1 = '.\/TEK0000.CSV'$/;"	v
+DATAFILE1	TGS30/ve.py	/^        DATAFILE1 = 'TEK00' + str(num) + '.csv'$/;"	v
+DATAFILE1	TGS30/ve.py	/^        DATAFILE1 = 'TEK000' + str(num) + '.csv'$/;"	v
+DATAFILE1	TGS40/hys.py	/^DATAFILE1 = '.\/TEK0000.CSV'$/;"	v
+DATAFILE1	TGS40/ve.py	/^        DATAFILE1 = 'TEK00' + str(num) + '.csv'$/;"	v
+DATAFILE1	TGS40/ve.py	/^        DATAFILE1 = 'TEK000' + str(num) + '.csv'$/;"	v
+DATAFILE1	TGS45/hys.py	/^DATAFILE1 = '.\/TEK0000.CSV'$/;"	v
+DATAFILE1	TGS45/ve.py	/^        DATAFILE1 = 'TEK00' + str(num) + '.csv'$/;"	v
+DATAFILE1	TGS45/ve.py	/^        DATAFILE1 = 'TEK000' + str(num) + '.csv'$/;"	v
+DATAFILE1	TGS48/hys.py	/^DATAFILE1 = '.\/TEK0000.CSV'$/;"	v
+DATAFILE1	TGS48/ve.py	/^        DATAFILE1 = 'TEK00' + str(num) + '.csv'$/;"	v
+DATAFILE1	TGS48/ve.py	/^        DATAFILE1 = 'TEK000' + str(num) + '.csv'$/;"	v
+DATAFILE1	TGS52/hys.py	/^DATAFILE1 = '.\/TEK0000.CSV'$/;"	v
+DATAFILE1	TGS52/ve.py	/^        DATAFILE1 = 'TEK00' + str(num) + '.csv'$/;"	v
+DATAFILE1	TGS52/ve.py	/^        DATAFILE1 = 'TEK000' + str(num) + '.csv'$/;"	v
+DATAFILE1	TGST0/hys.py	/^DATAFILE1 = '.\/TEK0000.CSV'$/;"	v
+DATAFILE1	TGST0/ve.py	/^        DATAFILE1 = 'TEK00' + str(num) + '.csv'$/;"	v
+DATAFILE1	TGST0/ve.py	/^        DATAFILE1 = 'TEK000' + str(num) + '.csv'$/;"	v
+DATAFILE1	ve.py	/^        DATAFILE1 = 'TEK00' + str(num) + '.csv'$/;"	v
+DATAFILE1	ve.py	/^        DATAFILE1 = 'TEK000' + str(num) + '.csv'$/;"	v
+DATAFILE2	hys.py	/^DATAFILE2 = '.\/TEK0001.CSV'$/;"	v
+DATAFILE2	tec.py	/^DATAFILE2 = '.\/TEK0001.CSV'$/;"	v
+DATAFILE2	TGS30/hys.py	/^DATAFILE2 = '.\/TEK0001.CSV'$/;"	v
+DATAFILE2	TGS30/ve.py	/^        DATAFILE2 = 'TEK00' + str(num+1) + '.csv'$/;"	v
+DATAFILE2	TGS30/ve.py	/^        DATAFILE2 = 'TEK000' + str(num+1) + '.csv'$/;"	v
+DATAFILE2	TGS40/hys.py	/^DATAFILE2 = '.\/TEK0001.CSV'$/;"	v
+DATAFILE2	TGS40/ve.py	/^        DATAFILE2 = 'TEK00' + str(num+1) + '.csv'$/;"	v
+DATAFILE2	TGS40/ve.py	/^        DATAFILE2 = 'TEK000' + str(num+1) + '.csv'$/;"	v
+DATAFILE2	TGS45/hys.py	/^DATAFILE2 = '.\/TEK0001.CSV'$/;"	v
+DATAFILE2	TGS45/ve.py	/^        DATAFILE2 = 'TEK00' + str(num+1) + '.csv'$/;"	v
+DATAFILE2	TGS45/ve.py	/^        DATAFILE2 = 'TEK000' + str(num+1) + '.csv'$/;"	v
+DATAFILE2	TGS48/hys.py	/^DATAFILE2 = '.\/TEK0001.CSV'$/;"	v
+DATAFILE2	TGS48/ve.py	/^        DATAFILE2 = 'TEK00' + str(num+1) + '.csv'$/;"	v
+DATAFILE2	TGS48/ve.py	/^        DATAFILE2 = 'TEK000' + str(num+1) + '.csv'$/;"	v
+DATAFILE2	TGS52/hys.py	/^DATAFILE2 = '.\/TEK0001.CSV'$/;"	v
+DATAFILE2	TGS52/ve.py	/^        DATAFILE2 = 'TEK00' + str(num+1) + '.csv'$/;"	v
+DATAFILE2	TGS52/ve.py	/^        DATAFILE2 = 'TEK000' + str(num+1) + '.csv'$/;"	v
+DATAFILE2	TGST0/hys.py	/^DATAFILE2 = '.\/TEK0001.CSV'$/;"	v
+DATAFILE2	TGST0/ve.py	/^        DATAFILE2 = 'TEK00' + str(num+1) + '.csv'$/;"	v
+DATAFILE2	TGST0/ve.py	/^        DATAFILE2 = 'TEK000' + str(num+1) + '.csv'$/;"	v
+DATAFILE2	ve.py	/^        DATAFILE2 = 'TEK00' + str(num+1) + '.csv'$/;"	v
+DATAFILE2	ve.py	/^        DATAFILE2 = 'TEK000' + str(num+1) + '.csv'$/;"	v
+DATAFILE3	hys.py	/^DATAFILE3 = '.\/TEK0012.CSV'$/;"	v
+DATAFILE3	tec.py	/^DATAFILE3 = '.\/TEK0012.CSV'$/;"	v
+DATAFILE3	TGS30/hys.py	/^DATAFILE3 = '.\/TEK0012.CSV'$/;"	v
+DATAFILE3	TGS40/hys.py	/^DATAFILE3 = '.\/TEK0012.CSV'$/;"	v
+DATAFILE3	TGS45/hys.py	/^DATAFILE3 = '.\/TEK0012.CSV'$/;"	v
+DATAFILE3	TGS48/hys.py	/^DATAFILE3 = '.\/TEK0012.CSV'$/;"	v
+DATAFILE3	TGS52/hys.py	/^DATAFILE3 = '.\/TEK0012.CSV'$/;"	v
+DATAFILE3	TGST0/hys.py	/^DATAFILE3 = '.\/TEK0012.CSV'$/;"	v
+DATAFILE4	hys.py	/^DATAFILE4 = '.\/TEK0013.CSV'$/;"	v
+DATAFILE4	tec.py	/^DATAFILE4 = '.\/TEK0013.CSV'$/;"	v
+DATAFILE4	TGS30/hys.py	/^DATAFILE4 = '.\/TEK0013.CSV'$/;"	v
+DATAFILE4	TGS40/hys.py	/^DATAFILE4 = '.\/TEK0013.CSV'$/;"	v
+DATAFILE4	TGS45/hys.py	/^DATAFILE4 = '.\/TEK0013.CSV'$/;"	v
+DATAFILE4	TGS48/hys.py	/^DATAFILE4 = '.\/TEK0013.CSV'$/;"	v
+DATAFILE4	TGS52/hys.py	/^DATAFILE4 = '.\/TEK0013.CSV'$/;"	v
+DATAFILE4	TGST0/hys.py	/^DATAFILE4 = '.\/TEK0013.CSV'$/;"	v
+DATAFILE5	hys.py	/^DATAFILE5 = '.\/TEK0028.CSV'$/;"	v
+DATAFILE5	tec.py	/^DATAFILE5 = '.\/TEK0028.CSV'$/;"	v
+DATAFILE5	TGS30/hys.py	/^DATAFILE5 = '.\/TEK0028.CSV'$/;"	v
+DATAFILE5	TGS40/hys.py	/^DATAFILE5 = '.\/TEK0028.CSV'$/;"	v
+DATAFILE5	TGS45/hys.py	/^DATAFILE5 = '.\/TEK0028.CSV'$/;"	v
+DATAFILE5	TGS48/hys.py	/^DATAFILE5 = '.\/TEK0028.CSV'$/;"	v
+DATAFILE5	TGS52/hys.py	/^DATAFILE5 = '.\/TEK0028.CSV'$/;"	v
+DATAFILE5	TGST0/hys.py	/^DATAFILE5 = '.\/TEK0028.CSV'$/;"	v
+DATAFILE6	hys.py	/^DATAFILE6 = '.\/TEK0029.CSV'$/;"	v
+DATAFILE6	tec.py	/^DATAFILE6 = '.\/TEK0029.CSV'$/;"	v
+DATAFILE6	TGS30/hys.py	/^DATAFILE6 = '.\/TEK0029.CSV'$/;"	v
+DATAFILE6	TGS40/hys.py	/^DATAFILE6 = '.\/TEK0029.CSV'$/;"	v
+DATAFILE6	TGS45/hys.py	/^DATAFILE6 = '.\/TEK0029.CSV'$/;"	v
+DATAFILE6	TGS48/hys.py	/^DATAFILE6 = '.\/TEK0029.CSV'$/;"	v
+DATAFILE6	TGS52/hys.py	/^DATAFILE6 = '.\/TEK0029.CSV'$/;"	v
+DATAFILE6	TGST0/hys.py	/^DATAFILE6 = '.\/TEK0029.CSV'$/;"	v
+ec	tec.py	/^ec= list()$/;"	v
+lx1	TGST0/hys.py	/^        lx1 = sorted(range(5),key=x1.__getitem__)$/;"	v
+lx1	TGST0/hys.py	/^lx1 = list()$/;"	v
+lx2	TGST0/hys.py	/^        lx2 = sorted(range(5),key=x1.__getitem__)$/;"	v
+lx2	TGST0/hys.py	/^lx2 = list()$/;"	v
+lx3	TGST0/hys.py	/^        lx3 = sorted(range(5),key=x1.__getitem__)$/;"	v
+lx3	TGST0/hys.py	/^lx3 = list()$/;"	v
+ly1	TGST0/hys.py	/^        ly1 = sorted(range(5),key=y1.__getitem__)$/;"	v
+ly1	TGST0/hys.py	/^ly1 = list()$/;"	v
+ly2	TGST0/hys.py	/^        ly2 = sorted(range(5),key=x1.__getitem__)$/;"	v
+ly2	TGST0/hys.py	/^ly2 = list()$/;"	v
+ly3	TGST0/hys.py	/^ly3 = list()$/;"	v
+ly4	TGST0/hys.py	/^        ly4 = sorted(range(5),key=x1.__getitem__)$/;"	v
+matplotlib	hys.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	tec.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	TGS30/graph.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	TGS30/hys.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	TGS30/ve.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	TGS40/hys.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	TGS40/ve.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	TGS45/hys.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	TGS45/ve.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	TGS48/hys.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	TGS48/ve.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	TGS52/hys.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	TGS52/ve.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	TGST0/hys.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	TGST0/ve.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	ve.py	/^import matplotlib.pyplot as plt$/;"	i
+num	TGS30/ve.py	/^    num = i * 2$/;"	v
+num	TGS40/ve.py	/^    num = i * 2$/;"	v
+num	TGS45/ve.py	/^    num = i * 2$/;"	v
+num	TGS48/ve.py	/^    num = i * 2$/;"	v
+num	TGS52/ve.py	/^    num = i * 2$/;"	v
+num	TGST0/ve.py	/^    num = i * 2$/;"	v
+num	ve.py	/^    num = i * 2$/;"	v
+plt	hys.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	tec.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	TGS30/graph.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	TGS30/hys.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	TGS30/ve.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	TGS40/hys.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	TGS40/ve.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	TGS45/hys.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	TGS45/ve.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	TGS48/hys.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	TGS48/ve.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	TGS52/hys.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	TGS52/ve.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	TGST0/hys.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	TGST0/ve.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	ve.py	/^import matplotlib.pyplot as plt$/;"	i
+temp	tec.py	/^temp = list()$/;"	v
+temp	TGS30/ve.py	/^temp = list()$/;"	v
+temp	TGS40/ve.py	/^temp = list()$/;"	v
+temp	TGS45/ve.py	/^temp = list()$/;"	v
+temp	TGS48/ve.py	/^temp = list()$/;"	v
+temp	TGS52/ve.py	/^temp = list()$/;"	v
+temp	TGST0/ve.py	/^temp = list()$/;"	v
+temp	ve.py	/^temp = list()$/;"	v
+time	TGS30/ve.py	/^time = list()$/;"	v
+time	TGS40/ve.py	/^time = list()$/;"	v
+time	TGS45/ve.py	/^time = list()$/;"	v
+time	TGS48/ve.py	/^time = list()$/;"	v
+time	TGS52/ve.py	/^time = list()$/;"	v
+time	TGST0/ve.py	/^time = list()$/;"	v
+time	ve.py	/^time = list()$/;"	v
+x	TGS30/graph.py	/^x = list()$/;"	v
+x	TGS30/ve.py	/^x = list()$/;"	v
+x	TGS40/ve.py	/^x = list()$/;"	v
+x	TGS45/ve.py	/^x = list()$/;"	v
+x	TGS48/ve.py	/^x = list()$/;"	v
+x	TGS52/ve.py	/^x = list()$/;"	v
+x	TGST0/ve.py	/^x = list()$/;"	v
+x	ve.py	/^x = list()$/;"	v
+x1	hys.py	/^x1 = list()$/;"	v
+x1	TGS30/hys.py	/^x1 = list()$/;"	v
+x1	TGS40/hys.py	/^x1 = list()$/;"	v
+x1	TGS45/hys.py	/^x1 = list()$/;"	v
+x1	TGS48/hys.py	/^x1 = list()$/;"	v
+x1	TGS52/hys.py	/^x1 = list()$/;"	v
+x1	TGST0/hys.py	/^x1 = list()$/;"	v
+x2	hys.py	/^x2 = list()$/;"	v
+x2	TGS30/hys.py	/^x2 = list()$/;"	v
+x2	TGS40/hys.py	/^x2 = list()$/;"	v
+x2	TGS45/hys.py	/^x2 = list()$/;"	v
+x2	TGS48/hys.py	/^x2 = list()$/;"	v
+x2	TGS52/hys.py	/^x2 = list()$/;"	v
+x2	TGST0/hys.py	/^x2 = list()$/;"	v
+x3	hys.py	/^x3 = list()$/;"	v
+x3	TGS30/hys.py	/^x3 = list()$/;"	v
+x3	TGS40/hys.py	/^x3 = list()$/;"	v
+x3	TGS45/hys.py	/^x3 = list()$/;"	v
+x3	TGS48/hys.py	/^x3 = list()$/;"	v
+x3	TGS52/hys.py	/^x3 = list()$/;"	v
+x3	TGST0/hys.py	/^x3 = list()$/;"	v
+y	TGS30/graph.py	/^y = list()$/;"	v
+y	TGS30/ve.py	/^y = list()$/;"	v
+y	TGS40/ve.py	/^y = list()$/;"	v
+y	TGS45/ve.py	/^y = list()$/;"	v
+y	TGS48/ve.py	/^y = list()$/;"	v
+y	TGS52/ve.py	/^y = list()$/;"	v
+y	TGST0/ve.py	/^y = list()$/;"	v
+y	ve.py	/^y = list()$/;"	v
+y1	hys.py	/^y1 = list()$/;"	v
+y1	TGS30/hys.py	/^y1 = list()$/;"	v
+y1	TGS40/hys.py	/^y1 = list()$/;"	v
+y1	TGS45/hys.py	/^y1 = list()$/;"	v
+y1	TGS48/hys.py	/^y1 = list()$/;"	v
+y1	TGS52/hys.py	/^y1 = list()$/;"	v
+y1	TGST0/hys.py	/^y1 = list()$/;"	v
+y2	hys.py	/^y2 = list()$/;"	v
+y2	TGS30/hys.py	/^y2 = list()$/;"	v
+y2	TGS40/hys.py	/^y2 = list()$/;"	v
+y2	TGS45/hys.py	/^y2 = list()$/;"	v
+y2	TGS48/hys.py	/^y2 = list()$/;"	v
+y2	TGS52/hys.py	/^y2 = list()$/;"	v
+y2	TGST0/hys.py	/^y2 = list()$/;"	v
+y3	hys.py	/^y3 = list()$/;"	v
+y3	TGS30/hys.py	/^y3 = list()$/;"	v
+y3	TGS40/hys.py	/^y3 = list()$/;"	v
+y3	TGS45/hys.py	/^y3 = list()$/;"	v
+y3	TGS48/hys.py	/^y3 = list()$/;"	v
+y3	TGS52/hys.py	/^y3 = list()$/;"	v
+y3	TGST0/hys.py	/^y3 = list()$/;"	v

@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import math
 
 x = list()
 y = list()
@@ -33,7 +34,7 @@ for i in range(0,27):
                 if float(data[3]) == float(t):
                     temp.append(float(data[4]))
 
-    y.append(max(temp)*0.1/2.9)
+    y.append(math.fabs(max(temp)*0.1/2.9))
 
 plt.axvline(x=0,color='black')
 plt.axhline(y=0,color='black')
@@ -41,4 +42,5 @@ plt.plot(x,y)
 plt.xlabel('Voltage[V]')
 plt.ylabel('Electric Field(Where P=0)[V/m]')
 plt.legend()
+plt.savefig('./VE.png')
 plt.show()
